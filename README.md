@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 # My First TypeScript Project 😊
+![Screenshot 2024-09-19 200445](https://github.com/user-attachments/assets/97b70116-60b6-4b7a-a79d-34258d8f6cb4)
 
 This project is a simple yet functional to-do list application built with TypeScript and JavaScript, 
 featuring task persistence via localStorage. It leverages Snowpack as a development environment and uuid for generating unique task IDs.
