@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # My First TypeScript Project 😊
 ![Screenshot 2024-09-19 200445](https://github.com/user-attachments/assets/97b70116-60b6-4b7a-a79d-34258d8f6cb4)
 
